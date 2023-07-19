@@ -6,7 +6,8 @@ Testing out building a simple api with the [Nest framework](https://nestjs.com/)
 
 - GET, POST, DELETE and PATCH articles
 - Access articles by ID
-- Login route to get acces to /users route
+- POST Register user
+- Login route to get acces to GET, PATCH, DELETE /users routes
 
 <h2><a id="table-of-contents">📚 Table of Contents</a></h2>
 
