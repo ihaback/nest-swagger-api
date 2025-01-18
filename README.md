@@ -23,7 +23,7 @@ This project is a simple API built using the Nest framework. It includes basic C
   - [Installation](#installation)
   - [Set up the database](#set-up-the-database)
   - [Running the app](#running-the-app)
-  - [Usage](#usage)
+  - [Authentication](#authentication)
 
 <h2><a id="development">💻 Development</a></h2>
 
@@ -63,7 +63,7 @@ npm run start:dev
 npm run start:prod
 ```
 
-<h3><a id="usage">🔐 Authentication</a></h3>
+<h3><a id="authentication">🔐 Authentication</a></h3>
 
 ```ts
 // users for authenticating towards the /auth/login endpoint
