@@ -63,7 +63,7 @@ npm run start:dev
 npm run start:prod
 ```
 
-<h3><a id="usage">📖 Usage</a></h3>
+<h3><a id="usage">📖 Authentication</a></h3>
 
 ```ts
 // users for authenticating towards the /auth/login endpoint
